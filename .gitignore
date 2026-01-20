@@ -1,0 +1,19 @@
+# --- Python & Environments ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Manim Output & Cache ---
+# This is crucial so you don't upload large MP4 files to GitHub
+media/
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Environment Variables (Future use) ---
+.env
