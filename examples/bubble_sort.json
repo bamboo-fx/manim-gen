@@ -1,0 +1,10 @@
+{
+    "topic": "bubble sort",
+    "scenes": [
+      {
+        "type": "array",
+        "values": [5, 1, 4, 2]
+      }
+    ]
+  }
+  
