@@ -1,10 +1,5 @@
 {
-    "topic": "bubble sort",
-    "scenes": [
-      {
-        "type": "array",
-        "values": [5, 1, 4, 2]
-      }
-    ]
+    "topic": "bubble_sort",
+    "input": [5, 1, 4, 2]
   }
   
