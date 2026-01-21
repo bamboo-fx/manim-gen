@@ -20,3 +20,4 @@ def bubble_sort_steps(arr):
                 })
 
     return steps
+

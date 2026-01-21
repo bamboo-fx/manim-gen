@@ -17,3 +17,6 @@ media/
 
 # --- Environment Variables (Future use) ---
 .env
+
+# letta
+.letta

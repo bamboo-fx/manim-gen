@@ -17,3 +17,4 @@ def compare(scene, i, j):
         box_j.animate.set_stroke(WHITE, width=2),
         run_time=0.6
     )
+

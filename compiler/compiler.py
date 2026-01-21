@@ -11,3 +11,4 @@ def compile_video(ir):
 
     else:
         raise ValueError(f"Unknown topic: {ir.topic}")
+

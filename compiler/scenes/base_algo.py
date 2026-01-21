@@ -19,3 +19,4 @@ class AlgorithmScene(Scene):
 
         self.play(Create(self.boxes), Write(self.labels))
         self.wait(0.5)
+

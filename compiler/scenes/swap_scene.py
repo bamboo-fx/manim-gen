@@ -14,3 +14,4 @@ def swap(scene, i, j):
 
     scene.boxes[i], scene.boxes[j] = scene.boxes[j], scene.boxes[i]
     scene.labels[i], scene.labels[j] = scene.labels[j], scene.labels[i]
+

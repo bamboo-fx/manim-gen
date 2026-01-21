@@ -16,3 +16,4 @@ class BubbleSortScene(AlgorithmScene):
                 compare(self, step["i"], step["j"])
             elif step["type"] == "swap":
                 swap(self, step["i"], step["j"])
+

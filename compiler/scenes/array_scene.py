@@ -21,3 +21,4 @@ class ArrayScene(Scene):
 
         self.play(Create(boxes), Write(labels))
         self.wait(1)
+
